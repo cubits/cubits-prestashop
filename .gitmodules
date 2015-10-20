@@ -1,0 +1,3 @@
+[submodule "modules/cubits_ps/lib/cubits-php"]
+	path = modules/cubits_ps/lib/cubits-php
+	url = git@github.com:cubits/cubits-php
